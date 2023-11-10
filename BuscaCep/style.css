@@ -20,7 +20,20 @@
     text-align: center;
     color: rgb(0, 0, 0);
 }
-button{
+.btnL{
+    box-shadow: 20px;
+    cursor: pointer;
+    width: 120px;
+    color: none;
+  border-radius: 40px;
+  position: absolute;
+ align-items: center;
+ bottom: 540px;
+  border:  none;
+  background: rgba(255, 179, 124, 0.625);
+  padding: 20px;
+}
+.btn{
     box-shadow: 20px;
     cursor: pointer;
     width: 120px;
