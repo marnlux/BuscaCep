@@ -23,3 +23,11 @@ function CliqueBotao() {
 
 }
 
+function Limpar() {
+    document.getElementById("logra").value = " "
+    document.getElementById("bairro").value = " "
+    document.getElementById("local").value = " "
+    document.getElementById("uf").value = " "
+    document.getElementById("ddd").value = " "
+}
+
